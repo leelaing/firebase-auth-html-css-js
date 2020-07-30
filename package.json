@@ -91,7 +91,7 @@
     "depd": "^1.1.2",
     "destroy": "^1.0.4",
     "didyoumean": "^1.2.1",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "dotenv": "^6.2.0",
     "duplexer3": "^0.1.4",
     "ecc-jsbn": "^0.1.2",
