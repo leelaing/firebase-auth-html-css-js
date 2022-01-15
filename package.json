@@ -230,7 +230,7 @@
     "marked-terminal": "^3.2.0",
     "memoizee": "^0.4.14",
     "merge-descriptors": "^1.0.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "methods": "^1.1.2",
     "mime": "^1.6.0",
     "media-typer": "^0.3.0",
