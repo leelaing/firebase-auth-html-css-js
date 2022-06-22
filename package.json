@@ -144,7 +144,7 @@
     "google-p12-pem": "^0.1.2",
     "fsevents": "^2.0.7",
     "google-auto-auth": "^0.7.2",
-    "got": "^6.7.1",
+    "got": "^11.8.5",
     "graceful-fs": "^4.2.0",
     "gtoken": "^1.2.3",
     "har-schema": "^2.0.0",
